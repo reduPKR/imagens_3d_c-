@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho3D", "Trabalho3D\Trabalho3D.csproj", "{3A417CE4-9BB0-4337-8EF2-8E035C78F96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A417CE4-9BB0-4337-8EF2-8E035C78F96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A417CE4-9BB0-4337-8EF2-8E035C78F96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A417CE4-9BB0-4337-8EF2-8E035C78F96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A417CE4-9BB0-4337-8EF2-8E035C78F96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8F45E2-8F9E-4554-92CB-4E0455AA32E5}
+	EndGlobalSection
+EndGlobal
